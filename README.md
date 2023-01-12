@@ -1,5 +1,5 @@
 - 👋 Hi, We are Society For Allocate Coding
-- 🌱 Wr are currently working on our Android Application and Website
+- 🌱 We are currently working on our Android Application and Website
 
 
 
